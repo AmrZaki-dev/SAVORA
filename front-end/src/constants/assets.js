@@ -1,0 +1,5 @@
+export const ASSETS = {
+  Logo: "https://res.cloudinary.com/lslwlv9d/image/upload/v1787283526/bv8opuvpurrrymk01yph.png",
+  Savora1: "https://res.cloudinary.com/lslwlv9d/image/upload/v1787283531/kdjziftlusw3kcowbgsg.png",
+  hero: "https://res.cloudinary.com/lslwlv9d/image/upload/v1787283537/btqex9w8mw8gdlbckuq5.png"
+};

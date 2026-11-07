@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1786307751656",
+    "name": "Admin",
+    "email": "admin@techmaster.com",
+    "password": "$2a$10$.3aKJq8v7u/8S3KwJS/a0ORJiSKq2hkFR.C6tDTTChQidPDgK.mDC",
+    "role": "admin",
+    "createdAt": "2026-08-09T20:35:51.656Z"
+  },
+  {
+    "id": "1786321266851",
+    "name": "Amr Rashidy",
+    "email": "amr.rashidy77@gmail.com",
+    "password": "$2a$10$lucVEKdOOokPIcDeiSO2aeiXKXtn0A8ct1IBuHqjR9YSMGrB22fPW",
+    "role": "user",
+    "createdAt": "2026-08-10T00:21:06.851Z"
+  },
+  {
+    "id": "1786355025045",
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "$2a$10$ky1geak8xlTi4MGgVI44tOAzpfzcjktBmgxqe7Vs/3byldNV.YRjC",
+    "role": "user",
+    "createdAt": "2026-08-10T09:43:45.045Z"
+  },
+  {
+    "id": "1786359653866",
+    "name": "Amr Mohamed Ali",
+    "email": "amr.rashidy79@gmail.com",
+    "password": "$2a$10$S99UdsYggb80zEV4x/Z56OIcd1NhxatgAwG9tXExbohnsO49TtuE.",
+    "role": "user",
+    "createdAt": "2026-08-10T11:00:53.866Z"
+  },
+  {
+    "id": "1794047084267",
+    "name": "user",
+    "email": "amr@finance360.com",
+    "password": "$2a$10$I/kT4a7V9.Nos5ZcCMlTxOMZCk9OoL6Gk8UtzzVlzAzUwDca09hRa",
+    "role": "user",
+    "createdAt": "2026-11-07T10:24:44.267Z"
+  },
+  {
+    "id": "1794061807424",
+    "name": "Amr Zaki Shalaby",
+    "email": "a94509070@gmail.com",
+    "password": "$2a$10$wLFD8zbrnhBnrfyrHdJjGedIZIuNyRuP17JPNHlJZYTN8tX5MBy32",
+    "role": "user",
+    "createdAt": "2026-11-07T14:30:07.424Z"
+  }
+]

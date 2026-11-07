@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "name": "Chicken Shawarma Wrap",
+    "category": "Main Course",
+    "price": 120,
+    "description": "Grilled chicken shawarma with garlic sauce, pickles, and fries in a warm wrap.",
+    "image": "https://www.kitchensanctuary.com/wp-content/uploads/2015/02/Chicken-Shawarma-tall-FS-30.webp",
+    "available": true,
+    "createdAt": "2026-01-05T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Koshari",
+    "category": "Main Course",
+    "price": 65,
+    "description": "Classic Egyptian koshari — rice, lentils, macaroni, crispy onions, and spicy tomato sauce.",
+    "image": "https://everylittlecrumb.com/wp-content/uploads/koshary-3.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:05:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Grilled Kofta Platter",
+    "category": "Main Course",
+    "price": 180,
+    "description": "Char-grilled beef kofta served with rice, salad, and tahini sauce.",
+    "image": "https://static.vecteezy.com/system/resources/previews/054/321/893/non_2x/grilled-kofta-kebabs-served-with-saffron-rice-and-fresh-salad-photo.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:10:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Molokhia with Rabbit",
+    "category": "Main Course",
+    "price": 210,
+    "description": "Traditional molokhia stew served with rice and your choice of protein.",
+    "image": "https://www.hungrypaprikas.com/wp-content/uploads/2023/05/Molokhia-11.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:15:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Fattoush Salad",
+    "category": "Appetizer",
+    "price": 55,
+    "description": "Crisp mixed greens, tomatoes, and toasted pita with pomegranate dressing.",
+    "image": "https://feelgoodfoodie.net/wp-content/uploads/2021/05/Fattoush-Salad-13.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:20:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Cheese Sambousek (6 pcs)",
+    "category": "Appetizer",
+    "price": 70,
+    "description": "Crispy pastry pockets filled with melted cheese, fried golden.",
+    "image": "https://cdn.shopify.com/s/files/1/0677/5173/9608/files/photo-output_0_17_232e5fb5-ea0d-4e30-a141-505226993374_480x480.jpg?v=1710071494",
+    "available": true,
+    "createdAt": "2026-01-05T10:25:00.000Z"
+  },
+  {
+    "id": "7",
+    "name": "Umm Ali",
+    "category": "Dessert",
+    "price": 60,
+    "description": "Warm Egyptian bread pudding with milk, nuts, and raisins.",
+    "image": "https://amwhatieat.com/wp-content/uploads/2025/02/InShot_20250221_1438299942-scaled.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:30:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "Kunafa Slice",
+    "category": "Dessert",
+    "price": 75,
+    "description": "Crispy shredded pastry layered with sweet cheese and syrup.",
+    "image": "https://thecookingfoodie.com/wp-content/uploads/2025/08/Kunafa-Recipe-scaled.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:35:00.000Z"
+  },
+  {
+    "id": "9",
+    "name": "Fresh Mango Juice",
+    "category": "Beverage",
+    "price": 40,
+    "description": "Freshly blended seasonal mango juice, no added sugar.",
+    "image": "http://crazyvegankitchen.com/wp-content/uploads/2023/06/fresh-mango-juice-1024x1536.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:40:00.000Z"
+  },
+  {
+    "id": "10",
+    "name": "Hibiscus Tea (Karkade)",
+    "category": "Beverage",
+    "price": 30,
+    "description": "Chilled hibiscus tea, a classic Egyptian favorite.",
+    "image": "https://peanutswirls.com/wp-content/uploads/2024/06/Main-image--scaled.jpg",
+    "available": true,
+    "createdAt": "2026-01-05T10:45:00.000Z"
+  }
+]

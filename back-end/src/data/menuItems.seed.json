@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "name": "Chicken Shawarma Wrap",
+    "category": "Main Course",
+    "price": 120,
+    "description": "Grilled chicken shawarma with garlic sauce, pickles, and fries in a warm wrap.",
+    "image": "https://picsum.photos/seed/shawarma/400/300",
+    "available": true,
+    "createdAt": "2026-01-05T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Koshari",
+    "category": "Main Course",
+    "price": 65,
+    "description": "Classic Egyptian koshari — rice, lentils, macaroni, crispy onions, and spicy tomato sauce.",
+    "image": "https://picsum.photos/seed/koshari/400/300",
+    "available": true,
+    "createdAt": "2026-01-05T10:05:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Grilled Kofta Platter",
+    "category": "Main Course",
+    "price": 180,
+    "description": "Char-grilled beef kofta served with rice, salad, and tahini sauce.",
+    "image": "https://picsum.photos/seed/kofta/400/300",
+    "available": true,
+    "createdAt": "2026-01-05T10:10:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Molokhia with Rabbit",
+    "category": "Main Course",
+    "price": 210,
+    "description": "Traditional molokhia stew served with rice and your choice of protein.",
+    "image": "https://picsum.photos/seed/molokhia/400/300",
+    "available": true,
+    "createdAt": "2026-01-05T10:15:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Fattoush Salad",
+    "category": "Appetizer",
+    "price": 55,
+    "description": "Crisp mixed greens, tomatoes, and toasted pita with pomegranate dressing.",
+    "image": "https://picsum.photos/seed/fattoush/400/300",
+    "available": true,
+    "createdAt": "2026-01-05T10:20:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Cheese Sambousek (6 pcs)",
+    "category": "Appetizer",
+    "price": 70,
+    "description": "Crispy pastry pockets filled with melted cheese, fried golden.",
+    "image": "https://picsum.photos/seed/sambousek/400/300",
+    "available": true,
+    "createdAt": "2026-01-05T10:25:00.000Z"
+  },
+  {
+    "id": "7",
+    "name": "Umm Ali",
+    "category": "Dessert",
+    "price": 60,
+    "description": "Warm Egyptian bread pudding with milk, nuts, and raisins.",
+    "image": "https://picsum.photos/seed/ummali/400/300",
+    "available": true,
+    "createdAt": "2026-01-05T10:30:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "Kunafa Slice",
+    "category": "Dessert",
+    "price": 75,
+    "description": "Crispy shredded pastry layered with sweet cheese and syrup.",
+    "image": "https://picsum.photos/seed/kunafa/400/300",
+    "available": true,
+    "createdAt": "2026-01-05T10:35:00.000Z"
+  },
+  {
+    "id": "9",
+    "name": "Fresh Mango Juice",
+    "category": "Beverage",
+    "price": 40,
+    "description": "Freshly blended seasonal mango juice, no added sugar.",
+    "image": "https://picsum.photos/seed/mangojuice/400/300",
+    "available": true,
+    "createdAt": "2026-01-05T10:40:00.000Z"
+  },
+  {
+    "id": "10",
+    "name": "Hibiscus Tea (Karkade)",
+    "category": "Beverage",
+    "price": 30,
+    "description": "Chilled hibiscus tea, a classic Egyptian favorite.",
+    "image": "https://picsum.photos/seed/karkade/400/300",
+    "available": true,
+    "createdAt": "2026-01-05T10:45:00.000Z"
+  }
+]
